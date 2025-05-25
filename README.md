@@ -17,7 +17,7 @@ Hi, I'm **Joel Baena**, a Mechatronic Engineer turned Software Developer focused
 🚀 Open to collaborations, freelance work, or opportunities where engineering meets immersive tech.
 
 
-<br>📫 How to reach me<br>📧 Email: joeebaena@gmail.com
+<br>📫 How to reach me<br>📧 Email: joeebaena@gmail.com<br> 🌐 My site: https://joelflow.com
 
 
 ## 🌐 Socials:
